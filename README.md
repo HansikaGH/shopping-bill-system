@@ -23,11 +23,19 @@ A simple **billing and invoicing web app** built with [Streamlit](https://stream
 
 ### App Interface
 
-![App Screenshot]([screenshots/app_ui.png](https://github.com/HansikaGH/shopping-bill-system/blob/main/screenshots/UI_1.png))
+![App Screenshot](screenshots/UI_1.png)
+
+### App Interface (after final billing)
+
+![App Screenshot](screenshots/UI_2.png)
 
 ### Sample PDF Invoice
 
-![PDF Invoice](screenshots/UI_2.png)
+![PDF Invoice](screenshots/UI_3.png)
+
+### Sample CSV Invoice
+
+![App Screenshot](screenshots/UI_4.png)
 ## 🛠️ Installation
 
 1. **Clone this repository**
